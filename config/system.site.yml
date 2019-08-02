@@ -1,0 +1,14 @@
+uuid: a85038a9-9ca3-4f30-aa93-d43546a06eb5
+name: agile2
+mail: bertrand.craig@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
